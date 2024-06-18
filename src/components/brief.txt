@@ -1,0 +1,2 @@
+- màn hình đăng nhập, username và password check theo data lưu trong code
+-  màn hình chính sau khi đăng nhập gồm menu ở bên trái và hiển thị data lần đo gần nhất ở phần còn lại
